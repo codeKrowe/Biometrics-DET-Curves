@@ -1,11 +1,7 @@
 #!/usr/bin/python
-from numpy.random import beta
 import matplotlib.pyplot as plt
-import matplotlib.patches as mpatches
 import numpy as np
 import random
-
-
 
 # Values sent to me
 CFA=25
